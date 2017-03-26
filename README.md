@@ -27,4 +27,3 @@ Add the package:
 
 	composer require lat/phptoolbox
 
-	
