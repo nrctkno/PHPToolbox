@@ -1,9 +1,12 @@
 {
   "name": "lat/phptoolbox",
   "description": "A set of tools for general purposes in PHP apps.",
+  "type": "library",
+  "minimum-stability": "dev",
   "keywords": ["PHP tools"],
   "homepage": "http://ztrint.com",
   "license": "MIT",
+
   "authors": [
     {
       "name": "Nicolas Castro",
