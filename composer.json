@@ -1,0 +1,19 @@
+{
+  "name": "lat/phptoolbox",
+  "description": "A set of tools for general purposes in PHP apps.",
+  "keywords": ["PHP tools"],
+  "homepage": "http://ztrint.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nicolas Castro",
+      "email": "ncastro@ztrint.com"
+    }
+  ],
+  "require": {
+    "php": "^5.5.9 || ^7.0",
+  },
+  "support": {
+    "docs": "https://github.com/nrctkno/DataReader"
+  }
+}
