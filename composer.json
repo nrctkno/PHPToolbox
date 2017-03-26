@@ -3,7 +3,6 @@
   "name": "lat/phptoolbox",
   "description": "A set of tools for general purposes in PHP apps.",
   "type": "library",
-  "minimum-stability": "dev",
   "keywords": ["PHP tools"],
   "homepage": "http://ztrint.com",
   "license": "MIT",
@@ -21,6 +20,11 @@
   
   "support": {
     "docs": "https://github.com/nrctkno/DataReader"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "0.1.0"
+    }
   }
   
 }
