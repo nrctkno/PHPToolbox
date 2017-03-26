@@ -10,7 +10,7 @@ Add the repository to your **composer.json** file:
 
 	"repositories": [
 		{
-			"type": "vcs",
+			"type": "git",
 			"url": "https://github.com/nrctkno/PHPToolbox"
 		}
 	]
@@ -19,7 +19,7 @@ Add the repository to your **composer.json** file:
 ...or using the command line:
 
 
-	composer config repositories.lat_phptoolbox vcs https://github.com/nrctkno/PHPToolbox
+	composer config repositories.lat_phptoolbox git https://github.com/nrctkno/PHPToolbox
 	
 	
 Add the package:
