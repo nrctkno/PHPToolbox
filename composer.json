@@ -6,20 +6,21 @@
   "keywords": ["PHP tools"],
   "homepage": "http://ztrint.com",
   "license": "MIT",
-
   "authors": [
     {
       "name": "Nicolas Castro",
       "email": "ncastro@ztrint.com"
     }
   ],
+  "support": {
+    "docs": "https://github.com/nrctkno/DataReader"
+  }
   
   "require": {
     "php": "^5.5.9 || ^7.0"
   },
-  
-  "support": {
-    "docs": "https://github.com/nrctkno/DataReader"
+  "autoload": {
+    "psr-4": {"LAT\\DataReader\\": "lat/datareader"}
   }
   
 }
